@@ -21,3 +21,6 @@
 [submodule "lib/requests"]
 	path = lib/requests
 	url = http://github.com/kennethreitz/requests
+[submodule "lib/simplejson"]
+	path = lib/simplejson
+	url = https://github.com/simplejson/simplejson
